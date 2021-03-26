@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "davtheme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# DavTheme for [VS Code](http://code.visualstudio.com/)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## A color theme for [VS Code](http://code.visualstudio.com/) made by [DavAll](http://davall.fr) 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This theme features a dark color theme. It's made to be a full customized color theme.
 
-**Enjoy!**
+This theme is maintained by DavAll only.
