@@ -1,0 +1,21 @@
+{
+    "name": "davtheme",
+    "displayName": "DavTheme",
+    "description": "Color theme for VS Code made by DavAll",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DavTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DavTheme-color-theme.json"
+            }
+        ]
+    }
+}
